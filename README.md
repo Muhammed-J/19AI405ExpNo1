@@ -129,3 +129,6 @@ agent.run()
 
 
 <img width="1017" height="322" alt="image" src="https://github.com/user-attachments/assets/d43e4ffd-ecb9-47bb-84d9-444b1bc71042" />
+
+<h3>Result:</h3>
+Thus found the PEAS description for the given AI problem and develop an AI agent.
